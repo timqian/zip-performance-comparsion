@@ -1,0 +1,25 @@
+{
+  "name": "zip-performance-comparsion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "adm-zip": "^0.5.9",
+    "jszip": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timqian/zip-performance-comparsion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timqian/zip-performance-comparsion/issues"
+  },
+  "homepage": "https://github.com/timqian/zip-performance-comparsion#readme"
+}
