@@ -1,4 +1,4 @@
-# Comparing performance of jszip and adm-zip
+# Comparing performance of [jszip](https://github.com/Stuk/jszip) and [adm-zip](https://github.com/cthackers/adm-zip)
 
 ### How to compare
 
