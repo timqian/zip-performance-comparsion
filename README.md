@@ -7,6 +7,7 @@ npm i
 
 node index.mjs
 
+# Result(on GitHub codespace(4 Core; 8G RAM))
 # Time cost to compress 65530 files
 # adm-zip: 5.672s
 # jszip: 4.571s
